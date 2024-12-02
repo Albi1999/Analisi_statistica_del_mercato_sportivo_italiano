@@ -44,3 +44,7 @@ Per raggiungere gli obiettivi della tesi, sono state condotte diverse analisi st
 1. Scarica o clona questo repository.
 2. Tutti i dati utilizzati sono disponibili in **formati aperti** come `.xlsx` o `.csv` e possono essere consultati per riprodurre i risultati delle analisi.
 3. I modelli di regressione e le analisi di serie storiche sono stati implementati in **R**, con codici disponibili all'interno del repository.
+
+<p>
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=plastic" height="25"/>
+</p>
